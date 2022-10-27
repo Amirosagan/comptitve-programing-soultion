@@ -1,0 +1,11 @@
+.vscode/
+
+.cph/
+
+*.exe
+
+# text files
+*.output
+*.in
+*.text
+*.txt

@@ -30,7 +30,7 @@ vector<int> findThreeLargestNumbers(vector<int> array) {
     for (int i = 2; i >= 0; i--)
     {
         if(ans[i] == INT32_MIN){
-            ans[i] = [i+1];
+            ans[i] = ans[i+1];
         }
     }
     
