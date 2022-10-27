@@ -1,5 +1,7 @@
 .vscode/
 
+.obsidian/
+
 .cph/
 
 *.exe
@@ -9,3 +11,4 @@
 *.in
 *.text
 *.txt
+*.out
